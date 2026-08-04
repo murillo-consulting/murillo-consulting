@@ -5,7 +5,6 @@ J’architecture et j’industrialise des plateformes cloud, Kubernetes et IA o�
 - **[Gate](https://github.com/murillo-consulting/Gate)** — passerelle LLM en Rust avec DLP, routage multi-fournisseurs, budgets, bascule et journaux d’audit signés.
 - **[Fortplane](https://github.com/murillo-consulting/Fortplane)** — socle Kubernetes sécurisé pour environnements connectés
 - **[Impôts France MCP](https://github.com/murillo-consulting/impots-france-mcp)** — MCP fiscal français auditable avec moteur Rust/Wasm déployé sur Cloudflare Workers.
-- **[Kube Aegis Forge](https://github.com/murillo-consulting/kube-aegis-forge)** — plateforme GitOps reproductible avec images signées, SBOM, policy as code et observabilité.
 
 ## Contact
 
